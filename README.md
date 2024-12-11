@@ -30,7 +30,10 @@
 ![Image](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Image](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-<h3>Contacts:</h3>
+## ⚡ Contacts
+[![Linkedin Badge](https://img.shields.io/badge/-Diyor Muxiddinov-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/)](https://www.linkedin.com/) 
+[![Telegram Badge](https://img.shields.io/badge/@mvdiyor-2CA5E0?style=flat-square&logo=telegram&logoColor=white&link=https://t.me/mvdiyor)](https://t.me/mvdiyor) 
+[![Facebook Badge](https://img.shields.io/badge/@Diyormuxiddinovmvd-FF0004?style=flat-square&logo=facebook&logoColor=white&link=[https://www.youtube.com/@NuraliyevOrgatadi](https://www.facebook.com/Diyormuxiddinovmvd))]([https://www.youtube.com/@NuraliyevOrgatadi](https://www.facebook.com/Diyormuxiddinovmvd))
 Phone: <a href="tel:+998995535863">+99 899 553 58 63</a></br>
 Email: dmuxiddinov594@gmail.com</br>
 Linkedin:  <a href="https://www.linkedin.com/" target="_blank" rel="noopener">Diyor Muxiddinov</a></br>
