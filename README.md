@@ -4,7 +4,8 @@
 <h3>Hi there 👋</h3>
 <p>I'm junior front end developer, although I consider myself a code generalist and get excited about solving just about any problem.</p>
 
-<h3>My skills:</h3>
+## ⚡ Technologies
+
 ![Image](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Image](https://img.shields.io/badge/php-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Image](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
@@ -28,6 +29,7 @@
 ![Image](https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=bootstrap)
 ![Image](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Image](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
 <h3>Contacts:</h3>
 Phone <a href="tel:+998995535863">+99 899 553 58 63</a></br>
 Email dmuxiddinov594@gmail.com</br>
