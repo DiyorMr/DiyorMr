@@ -31,8 +31,8 @@
 ![Image](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 <h3>Contacts:</h3>
-Phone <a href="tel:+998995535863">+99 899 553 58 63</a></br>
-Email dmuxiddinov594@gmail.com</br>
-Linkedin  <a href="https://www.linkedin.com/" target="_blank" rel="noopener">Diyor Muxiddinov</a></br>
-Facebook <a href="https://www.facebook.com/Diyormuxiddinovmvd" target="_blank" rel="noopener">Diyor Muxiddinov</a></br>
-Telegram <a href="https://t.me/mvdiyor">@mvdiyor</a>
+Phone: <a href="tel:+998995535863">+99 899 553 58 63</a></br>
+Email: dmuxiddinov594@gmail.com</br>
+Linkedin:  <a href="https://www.linkedin.com/" target="_blank" rel="noopener">Diyor Muxiddinov</a></br>
+Facebook: <a href="https://www.facebook.com/Diyormuxiddinovmvd" target="_blank" rel="noopener">Diyor Muxiddinov</a></br>
+Telegram: <a href="https://t.me/mvdiyor">@mvdiyor</a>
